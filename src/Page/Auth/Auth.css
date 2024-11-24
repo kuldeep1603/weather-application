@@ -1,0 +1,12 @@
+.signup .form-control {
+    color: var(--white-color) !important;
+    text-transform: none !important;
+}
+.signup .btn{
+    border: 2px solid var(--secondary-color) !important;
+    color: var(--white-color) !important;
+}
+.google-btn img {
+    width: 50px;
+    padding: 10px;
+}

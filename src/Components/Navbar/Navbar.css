@@ -1,0 +1,17 @@
+.header .form-control:focus,
+.header .form-control:hover {
+    border: 0px !important;
+}
+
+.header .user-profile {
+    width : 35px;
+    height: 35px;
+}
+
+.header ::placeholder {
+    color: var(--white-color) !important;
+}
+.favlength{
+    top: -6px;
+    right: 0px;
+}

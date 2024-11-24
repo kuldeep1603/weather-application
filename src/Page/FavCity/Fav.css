@@ -1,0 +1,8 @@
+.fav .remove-from-cart {
+    position : absolute;
+    right    : -22px;
+    top      : -21px;
+    z-index  : 10;
+    color    : white;
+    font-size: 23px;
+}
